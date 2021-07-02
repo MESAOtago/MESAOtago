@@ -1,5 +1,5 @@
 ---
-layout: custom1
-bigimg2: ./banner.jpg
+layout: custom_layout
+bigimg: ./banner.jpg
 ---
 This site in currently under maintenance
