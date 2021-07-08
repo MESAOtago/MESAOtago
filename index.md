@@ -1,5 +1,5 @@
 ---
 layout: custom_layout
-bigimg: ./banner.jpg
+bigimg2: ./MESAlogoHR.png
 ---
 This site in currently under maintenance
