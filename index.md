@@ -1,6 +1,6 @@
 ---
 layout: custom_layout
-bigimg2: ./MESAlogoHR.png
+bigimg: ./MESAlogoHR.png
 ---
 
 This site is under maintenance.
