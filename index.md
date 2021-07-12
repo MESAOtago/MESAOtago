@@ -1,6 +1,5 @@
 ---
 layout: custom_layout
-bigimg: ./MESAlogoHR.png
 ---
 
 This site is under maintenance.
@@ -19,4 +18,8 @@ We would appreciate if you could fill in this [feedback form](...) to let us kno
 stuff
 
 ### Dr. Anna Garden: Creating and Presenting Academic Posters
-stuff 2 -->
+stuff 2 
+
+
+![logo](MESAlogoHR.png "MESA")
+-->
