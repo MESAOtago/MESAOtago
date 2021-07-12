@@ -1,11 +1,11 @@
 ---
-layout: custom1
+layout: custom_layout
 bigimg2: ./MESAlogoHR.png
 ---
 
-<!-- This site is under maintenance. -->
+This site is under maintenance.
 
-Thank you for attending our workshop! This site is for accessing all the material for the workshop, and will stay up until (when?). To respect all the people who contributed to these presentations, we ask that you please do not distribute the content you can find here.
+<!-- Thank you for attending our workshop! This site is for accessing all the material for the workshop, and will stay up until (when?). To respect all the people who contributed to these presentations, we ask that you please do not distribute the content you can find here.
 
 We would appreciate if you could fill in this [feedback form](...) to let us know how to improve the workshop if we hold it again in future.
 
@@ -19,4 +19,4 @@ We would appreciate if you could fill in this [feedback form](...) to let us kno
 stuff
 
 ### Dr. Anna Garden: Creating and Presenting Academic Posters
-stuff 2
+stuff 2 -->
