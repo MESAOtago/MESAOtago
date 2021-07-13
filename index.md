@@ -25,6 +25,7 @@ layout: custom_layout
 
 * [University of Otago Guest Wifi](files/otago_guestwifi.pdf)
 * [Timetable](files/timetable.pdf)
+
 ----
 
 [![logo](MESAlogoHR.png)](https://www.macdiarmid.ac.nz/our-people/macdiarmid-emerging-scientists-association-mesa/)
