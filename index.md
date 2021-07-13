@@ -15,7 +15,7 @@ layout: custom_layout
 
 * [Resources - Please read and prepare BEFORE the workshop](files/niels_final.pdf)
 
-### Steve Ting: Effectively Communicating Research to the Ceneral Public
+### Steve Ting: Effectively Communicating Research to the General Public
 
 
 ### Dr. Anna Garden: Creating and Presenting Academic Posters
