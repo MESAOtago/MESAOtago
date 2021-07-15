@@ -17,6 +17,9 @@ layout: custom_layout
 
 ### Steve Ting: Effectively Communicating Research to the General Public
 
+* [Outline](files/steve_outline.pdf)
+* [Slides](files/steve_slides.pdf)
+
 
 ### Dr. Anna Garden: Creating and Presenting Academic Posters
  
