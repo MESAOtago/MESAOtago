@@ -6,9 +6,6 @@ layout: custom_layout
 
  Thank you for attending our workshop! This site is for accessing all the material from the workshop. To respect all the people who contributed to these presentations, we ask that you please do not distribute the content you can find here.
 
-
-<!-- We would appreciate if you could fill in this [feedback form](...) to let us know how to improve the workshop if we hold it again in future. -->
-
 ----
 ### Prof. Niels Kjaergaard: Engaging Academic Talks
 
@@ -25,6 +22,7 @@ layout: custom_layout
 ### Dr. Anna Garden: Creating and Presenting Academic Posters
  
  * [Slides](files/ALGarden_MESA_slides.pptx)
+ * [Extra Notes](files/ALGPresentationWorkshopNotes.pdf)
 
 
 ----
